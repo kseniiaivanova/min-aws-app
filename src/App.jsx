@@ -7,7 +7,7 @@ return (
 <h1>Hej från AWS Amplify!</h1>
 <p>Den här appen byggs automatiskt när jag pushar till GitHub.</p>
 <p>Molnutveckling med AWS – vecka 39</p>
-<p>Härligt! Hej!!!</p>
+<p>Härligt! Hej!!! Hej!</p>
 </main>
 );
 }
